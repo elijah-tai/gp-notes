@@ -1,4 +1,4 @@
-# ml-algos
+# ml
 
 Where I can practice implementing ml stuff.
 
